@@ -1,0 +1,10 @@
+{
+  "albums": [
+    {
+      "id": "2",
+      "title": "John Doe",
+      "archived": 102,
+      "creationdate": "2024-12-01"
+    }
+  ]
+}
